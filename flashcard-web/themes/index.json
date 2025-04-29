@@ -1,0 +1,24 @@
+{
+  "themes": [
+    {
+      "id": "html",
+      "path": "html/meta.json"
+    },
+    {
+      "id": "javascript",
+      "path": "javascript/meta.json"
+    },
+    {
+      "id": "vue",
+      "path": "vue/meta.json"
+    },
+    {
+      "id": "golang",
+      "path": "golang/meta.json"
+    },
+    {
+      "id": "mysql",
+      "path": "mysql/meta.json"
+    }
+  ]
+}
