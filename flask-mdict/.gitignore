@@ -1,8 +1,0 @@
-*.pyc
-ecdict.csv
-*.db
-__pycache__
-build/
-dist/
-content/
-.vscode/
