@@ -16,6 +16,13 @@
 
 Github Pages: <https://typing-word.ttentau.top>(国内推荐访问这个)
 
+
+pnpm install
+
+出现 husky - .git can't be found 错误是因为 Husky 无法在你的项目目录中找到 .git 文件夹
+mkdir .git 
+
+
 ## 🛠 功能列表
 
 ### 背单词
